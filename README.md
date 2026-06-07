@@ -1,6 +1,8 @@
 # LinkedIn Post-Generator
 An AI-powered tool that generates scroll-stopping LinkedIn posts tailored by topic, length, and language — using few-shot prompting with real examples from a curated post dataset.
 
+# Streanlit url - https://post-generator-pr.streamlit.app/
+
 # Features
 - Topic-aware generation — choose from unified tags extracted from real LinkedIn posts
 - Length control — Short (1–5 lines), Medium (6–10), or Long (11–15)
